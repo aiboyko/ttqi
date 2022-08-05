@@ -25,7 +25,7 @@ year ={2021}}
 
 ```
 sudo apt-get install gfortran
-conda create -n ttqi python=3.8 numpy=1.21 scipy cython jupyter
+conda create -n ttqi python=3.8 numpy=1.21 scipy cython jupyter matplotlib
 ```
 
 2) activate conda env
